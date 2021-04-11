@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">TMS07</string>
+    <string name="hw_1">1</string>
+    <string name="_2">2</string>
+    <string name="this_is_my_homework"><u>This is my homework</u></string>
+    <string name="homework_1">HomeWork_1</string>
+    <string name="homework_2">homework_2</string>
+    <string name="homework_3">homework_3</string>
+    <string name="homework_4">homework_4</string>
+    <string name="homework_5">homework_5</string>
+    <string name="homework_6">homework_6</string>
 </resources>

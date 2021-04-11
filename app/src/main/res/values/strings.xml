@@ -9,4 +9,8 @@
     <string name="homework_4">homework_4</string>
     <string name="homework_5">homework_5</string>
     <string name="homework_6">homework_6</string>
+    <string name="url_picture">Введите url картинки</string>
+    <string name="click_on_me">click on me</string>
+    <string name="pictureoutput">pictureOutput</string>
+    <string name="find">Find</string>
 </resources>

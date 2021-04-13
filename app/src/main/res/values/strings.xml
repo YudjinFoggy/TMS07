@@ -13,4 +13,5 @@
     <string name="click_on_me">click on me</string>
     <string name="pictureoutput">pictureOutput</string>
     <string name="find">Find</string>
+    <string name="error_empty_url">URL should be non-empty</string>
 </resources>

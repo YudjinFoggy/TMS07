@@ -10,7 +10,12 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        var buttonHw1 = findViewById<Button>(R.id.hw1)
+        val buttonHw1 = findViewById<Button>(R.id.hw1)
+        buttonHw1.setOnClickListener {
+            startActivity(Intent(this, HW1Activity::class.java))
+        }
+
+        val buttonHw2 = findViewById<Button>(R.id.hw2)
         buttonHw1.setOnClickListener {
             startActivity(Intent(this, HW1Activity::class.java))
         }

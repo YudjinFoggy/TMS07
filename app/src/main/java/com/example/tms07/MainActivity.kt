@@ -16,13 +16,8 @@ class MainActivity : AppCompatActivity() {
         }
 
         val buttonHw2 = findViewById<Button>(R.id.hw2)
-        buttonHw1.setOnClickListener {
-            startActivity(Intent(this, HW1Activity::class.java))
+        buttonHw2.setOnClickListener {
+            startActivity(Intent(this, HW2Activity::class.java))
         }
     }
-
-
-
-
-
 }

@@ -14,4 +14,7 @@
     <string name="pictureoutput">pictureOutput</string>
     <string name="find">Find</string>
     <string name="error_empty_url">URL should be non-empty</string>
+    <string name="flags">Flags</string>
+    <string name="animation">Animation</string>
+    <string name="todo">TODO</string>
 </resources>

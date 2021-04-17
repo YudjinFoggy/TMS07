@@ -15,8 +15,7 @@ class HW1Activity : AppCompatActivity() {
 
         val buttonDownloadPicture = findViewById<Button>(R.id.buttonDownloadPicture)
         val inputUserText = findViewById<EditText>(R.id.inputFieldURL)
-        val pictureOutput = findViewById<ImageView>(R.id.pictureOutput)
-
+        val pictureOutput = findViewById<ImageView>(R.id.picture_output)
 
         buttonDownloadPicture.setOnClickListener {
 

@@ -17,4 +17,18 @@
     <string name="flags">Flags</string>
     <string name="animation">Animation</string>
     <string name="todo">TODO</string>
+    <string name="brest_region">Brest region</string>
+    <string name="corn">corn</string>
+    <string name="potatoes">potatoes</string>
+    <string name="cabbage">cabbage</string>
+    <string name="beet">beet</string>
+    <string name="vitebsk_region">Vitebsk region</string>
+    <string name="gomel_region">Gomel region</string>
+    <string name="grodno_region">Grodno region</string>
+    <string name="mogilev_region">Mogilev region</string>
+    <string name="minsk_region">Minsk region</string>
+    <string name="belarusian_seed_race">Belarusian seed race</string>
+    <string name="start">start</string>
+    <string name="_20">20</string>
+    <string name="picture_output">picture_output</string>
 </resources>

@@ -1,7 +1,6 @@
 package com.example.tms07
 
 import android.graphics.drawable.AnimationDrawable
-import android.media.Image
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageView
@@ -16,7 +15,7 @@ class AnimationActivity : AppCompatActivity() {
 
     override fun onStart() {
         super.onStart()
-        val anim = findViewById<ImageView>(R.id.animation).apply {
+        findViewById<ImageView>(R.id.animation).apply {
             setBackgroundResource(R.drawable.cat)
             catAnim = background as AnimationDrawable
             catAnim.start()

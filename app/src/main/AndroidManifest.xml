@@ -10,6 +10,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TMS07">
+        <activity android:name=".HW5ActivityRegistered" />
+        <activity android:name=".HW5Activity" />
         <activity android:name=".HW4Activity" />
         <activity android:name=".HW3Activity" />
         <activity android:name=".AnimationActivity" />

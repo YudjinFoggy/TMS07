@@ -45,4 +45,15 @@
     <string name="snowdrop_flower">Snowdrop Flower</string>
     <string name="snowdrop_added">Snowdrop added:)</string>
     <string name="snowdrop_added_successfully">Snowdrop added successfully:)</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">sign up</string>
+    <string name="ok">OK</string>
+    <string name="enter">enter</string>
+    <string name="one_step_closer_to_space">One step closer to space</string>
+    <string name="great_job">Great job!</string>
+    <string name="enter_username_please">Enter username, please</string>
+    <string name="enter_password_please">Enter password, please</string>
+    <string name="too_long_password">Too long password</string>
+    <string name="welcome">Welcome, </string>
 </resources>

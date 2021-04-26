@@ -31,4 +31,18 @@
     <string name="start">start</string>
     <string name="_20">20</string>
     <string name="picture_output">picture_output</string>
+    <string name="snowdrop_day">Snowdrop Day</string>
+    <string name="show_snowdrops">show snowdrops</string>
+    <string name="add_snowdrop">add snowdrop</string>
+    <string name="enter_the_name_of_the_snowdrop">Enter the name of the snowdrop</string>
+    <string name="enter_the_length_of_the_bulb">Enter the length of the bulb</string>
+    <string name="enter_the_length_snowdrop">Enter the length snowdrop</string>
+    <string name="add_to_collection">add to collection</string>
+    <string name="save">save</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="enter_the_length">Enter the length</string>
+    <string name="show_info">show info</string>
+    <string name="snowdrop_flower">Snowdrop Flower</string>
+    <string name="snowdrop_added">Snowdrop added:)</string>
+    <string name="snowdrop_added_successfully">Snowdrop added successfully:)</string>
 </resources>

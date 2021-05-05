@@ -2,7 +2,6 @@ package com.example.tms07
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import java.util.*
 import kotlin.collections.ArrayList
 
 class MainViewModelSnowdrop : ViewModel() {

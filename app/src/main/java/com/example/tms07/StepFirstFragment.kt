@@ -35,13 +35,13 @@ class StepFirstFragment : Fragment() {
 
         buttonSave.setOnClickListener {
             if (enterName.text.toString().isEmpty()) {
-                enterName.error = "Name sholdn't be empty"
+                enterName.error = resources.getString(R.string.it_should_not_be_empty)
             }
             if (enterLengthBuld.text.toString().isEmpty()) {
-                enterLengthBuld.error = "It sholdn't be empty"
+                enterLengthBuld.error = resources.getString(R.string.it_should_not_be_empty)
             }
             if (enterLength.text.toString().isEmpty()) {
-                enterLength.error = "It sholdn't be empty"
+                enterLength.error = resources.getString(R.string.it_should_not_be_empty)
             } else {
                 viewModel.setValuesInFragment(
                     enterName.text.toString(),

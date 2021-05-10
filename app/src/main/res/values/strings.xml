@@ -55,5 +55,16 @@
     <string name="enter_username_please">Enter username, please</string>
     <string name="enter_password_please">Enter password, please</string>
     <string name="too_long_password">Too long password</string>
+    <string name="it_should_not_be_empty">It should not be empty</string>
     <string name="welcome">Welcome, </string>
+    <string name="base_is_empty">Base is empty. Enter the data, please </string>
+    <string name="tulips">tulips</string>
+    <string name="tape">tape</string>
+    <string name="click_hero">click hero</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hero_picture">hero_picture</string>
+    <string name="congratulation">congratulation</string>
+    <string name="victory_picture">victory_picture</string>
+    <string name="background">background</string>
 </resources>

@@ -6,7 +6,6 @@ import android.widget.EditText
 import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
 import com.squareup.picasso.Picasso
-import java.lang.System.load
 
 class HW1Activity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

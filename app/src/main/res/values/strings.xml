@@ -67,4 +67,22 @@
     <string name="congratulation">congratulation</string>
     <string name="victory_picture">victory_picture</string>
     <string name="background">background</string>
+    <string name="homework_7">homework_7</string>
+    <string name="year">Year</string>
+    <string name="price">Price</string>
+    <string name="brand">Brand</string>
+    <string name="input_brand_of_car">Input brand of car</string>
+    <string name="input_year_of_issue">Input year of issue</string>
+    <string name="input_price">Input price</string>
+    <string name="add">add</string>
+    <string name="delete">delete</string>
+    <string name="load_all_info">load all info</string>
+    <string name="year_of_issue">Year of issue</string>
+    <string name="search_by_brand">search by brand</string>
+
+    <string-array name="brand">
+        <item>Auto</item>
+        <item>Bmw</item>
+        <item>Lexus</item>
+    </string-array>
 </resources>

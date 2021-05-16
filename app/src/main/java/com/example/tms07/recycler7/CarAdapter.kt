@@ -13,7 +13,7 @@ import com.example.tms07.R
 import com.example.tms07.database.entity.Car
 import com.google.android.material.snackbar.Snackbar
 
-class CarAdapter(val cars: List<Car>, val viewModel7: MainViewModel7) :
+class CarAdapter(val cars: List<Car>) :
     RecyclerView.Adapter<CarAdapter.CarViewHolder>() {
 
     inner class CarViewHolder(private val view: View) : RecyclerView.ViewHolder(view) {

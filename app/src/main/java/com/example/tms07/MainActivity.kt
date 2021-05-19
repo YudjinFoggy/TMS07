@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
+import com.example.tms07.dz8.HW8Activity
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -17,6 +18,7 @@ class MainActivity : AppCompatActivity() {
         val buttonHw5 = findViewById<Button>(R.id.hw5)
         val buttonHw6 = findViewById<Button>(R.id.hw6)
         val buttonHw7 = findViewById<Button>(R.id.hw7)
+        val buttonHw8 = findViewById<Button>(R.id.hw8)
 
         buttonHw1.setOnClickListener {
             startActivity(Intent(this, HW1Activity::class.java))
@@ -44,6 +46,10 @@ class MainActivity : AppCompatActivity() {
 
         buttonHw7.setOnClickListener {
             startActivity(Intent(this, HW7Activity::class.java))
+        }
+
+        buttonHw8.setOnClickListener {
+            startActivity(Intent(this, HW8Activity::class.java))
         }
     }
 }

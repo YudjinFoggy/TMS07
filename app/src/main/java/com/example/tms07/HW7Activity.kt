@@ -71,7 +71,7 @@ class HW7Activity : AppCompatActivity() {
         }
 
         viewModel.carList.observe(this) {
-            val carAdapter = CarAdapter(it, viewModel)
+            val carAdapter = CarAdapter(it)
             recycler.adapter = carAdapter
         }
 
@@ -87,13 +87,13 @@ class HW7Activity : AppCompatActivity() {
         buttonSearch.setOnClickListener {
             if (search.text.isEmpty()) {
                 viewModel.carList.observe(this) {
-                    val adapter = CarAdapter(it, viewModel)
+                    val adapter = CarAdapter(it)
                     recycler.adapter = adapter
                 }
             } else {
                 viewModel.searchBrand(search.text.toString())
                 viewModel.brandList.observe(this) {
-                    val adapter = CarAdapter(it, viewModel)
+                    val adapter = CarAdapter(it)
                     recycler.adapter = adapter
                 }
             }

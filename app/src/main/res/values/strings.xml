@@ -9,6 +9,8 @@
     <string name="homework_4">homework_4</string>
     <string name="homework_5">homework_5</string>
     <string name="homework_6">homework_6</string>
+    <string name="homework_8">homework_8</string>
+    <string name="homework_9">homework_9</string>
     <string name="url_picture">Введите url картинки</string>
     <string name="click_on_me">click on me</string>
     <string name="pictureoutput">pictureOutput</string>
@@ -79,9 +81,16 @@
     <string name="load_all_info">load all info</string>
     <string name="year_of_issue">Year of issue</string>
     <string name="search_by_brand">search by brand</string>
+    <string name="error">Error</string>
+    <string name="name">name</string>
+    <string name="cryptocurrencies">Cryptocurrencies</string>
+    <string name="percent">percent</string>
+    <string name="data">data</string>
+    <string name="dollar">$</string>
+    <string name="percent_sign">%</string>
 
     <string-array name="brand">
-        <item>Auto</item>
+        <item>Audi</item>
         <item>Bmw</item>
         <item>Lexus</item>
     </string-array>

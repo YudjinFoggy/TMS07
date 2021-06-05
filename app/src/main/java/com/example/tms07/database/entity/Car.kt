@@ -1,6 +1,5 @@
 package com.example.tms07.database.entity
 
-import android.widget.EditText
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 

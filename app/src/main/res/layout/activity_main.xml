@@ -83,5 +83,12 @@
             android:backgroundTint="#4682B4"
             android:text="@string/homework_8" />
 
+        <Button
+            android:id="@+id/hw9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#4682B4"
+            android:text="@string/homework_9" />
+
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

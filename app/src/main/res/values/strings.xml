@@ -71,7 +71,7 @@
     <string name="background">background</string>
     <string name="homework_7">homework_7</string>
     <string name="year">Year</string>
-    <string name="price">Price</string>
+    <string name="price">price</string>
     <string name="brand">Brand</string>
     <string name="input_brand_of_car">Input brand of car</string>
     <string name="input_year_of_issue">Input year of issue</string>
@@ -89,6 +89,10 @@
     <string name="dollar">$</string>
     <string name="percent_sign">%</string>
     <string name="read_me">READ ME</string>
+    <string name="homework_11">homework_11</string>
+    <string name="country">country</string>
+    <string name="date">date</string>
+    <string name="holiday">holiday</string>
 
     <string-array name="brand">
         <item>Audi</item>

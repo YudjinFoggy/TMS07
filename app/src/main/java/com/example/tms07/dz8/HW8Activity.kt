@@ -36,10 +36,5 @@ class HW8Activity : AppCompatActivity() {
                 .setMessage(it)
                 .show()
         }
-
-        viewModel.rates.observe(this) {
-            val coinAdapter = CoinAdapter(it)
-            recycler.adapter = coinAdapter
-        }
     }
 }

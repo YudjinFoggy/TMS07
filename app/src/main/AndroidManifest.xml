@@ -3,7 +3,7 @@
     package="com.example.tms07">
 
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
 
     <application
         android:icon="@mipmap/ic_launcher"
@@ -11,6 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.TMS07">
+        <activity android:name=".dz11.HW11Activity" />
         <activity android:name=".dz8.HW8Activity" />
         <activity android:name=".HW7Activity" />
         <activity android:name=".HW6Activity" />
@@ -30,8 +31,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-<!--        <service android:name=".dz9.MyBroadcastReceiver"/>-->
-
     </application>
 
 </manifest>

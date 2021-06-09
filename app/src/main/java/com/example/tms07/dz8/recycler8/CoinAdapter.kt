@@ -1,11 +1,8 @@
 package com.example.tms07.dz8.recycler8
 
-import android.graphics.Color.red
-import android.graphics.drawable.Drawable
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.EditText
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.tms07.R
@@ -43,7 +40,6 @@ class CoinAdapter(val coins: List<Rate>) : RecyclerView.Adapter<CoinAdapter.Coin
     }
 
     override fun onCreateViewHolder(viewGroup: ViewGroup, viewType: Int): CoinViewHolder {
-
         val view = LayoutInflater.from(viewGroup.context)
             .inflate(R.layout.item_coin8, viewGroup, false)
         return CoinViewHolder(view)
